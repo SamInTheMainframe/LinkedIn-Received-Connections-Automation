@@ -1,0 +1,17 @@
+linkedin-automation/
+├── backend/
+│   ├── app/
+│   │   ├── __init__.py
+│   │   ├── main.py
+│   │   ├── linkedin_bot.py
+│   │   ├── scoring.py
+│   │   └── models.py
+│   ├── requirements.txt
+│   └── config.py
+└── frontend/
+    ├── src/
+    │   ├── components/
+    │   │   ├── ConnectionTable.jsx
+    │   │   └── ScoreCard.jsx
+    │   └── App.jsx
+    └── package.json 
